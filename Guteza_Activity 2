@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMaX8EJIxeybwxiVylGcAAO",
+      "authorship_tag": "ABX9TyMXrwvDRCZ9bODFeFJCH00Z",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -34,36 +34,21 @@
       },
       "outputs": [],
       "source": [
-        "[] #variable with a single value \n",
+        "[] #variable with a single value\n",
         "\n",
         "x=2\n",
         "y=3\n",
         "if x>y:\n",
         "   print(\"x is greater than y\")\n",
         "else:\n",
-        "   print(\"y is greater than x\")\n",
+        "   print(\"y is greater than x\") \n",
         "\n",
         "#variable with multiple values\n",
         "\n",
-        "a,b = 1,2 \n",
+        "a,b = 1,2\n",
         "print(\"The value of a is\", a)\n",
-        "print(\"The value of b is\", b)\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n"
+        "print(\"The value of b is\", b)\n"
       ]
-    },
-    {
-      "cell_type": "code",
-      "source": [],
-      "metadata": {
-        "id": "9Ym74WMV-eQW"
-      },
-      "execution_count": null,
-      "outputs": []
     }
   ]
 }
