@@ -1,0 +1,69 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMaX8EJIxeybwxiVylGcAAO",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/gutezaken/CPE-21A-PLD-1-1-for-blk1/blob/main/Guteza_Activity%202\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "KTa2pJK_9u9E"
+      },
+      "outputs": [],
+      "source": [
+        "[] #variable with a single value \n",
+        "\n",
+        "x=2\n",
+        "y=3\n",
+        "if x>y:\n",
+        "   print(\"x is greater than y\")\n",
+        "else:\n",
+        "   print(\"y is greater than x\")\n",
+        "\n",
+        "#variable with multiple values\n",
+        "\n",
+        "a,b = 1,2 \n",
+        "print(\"The value of a is\", a)\n",
+        "print(\"The value of b is\", b)\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "9Ym74WMV-eQW"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
